@@ -1,0 +1,84 @@
+[
+	{
+		"Data":
+		[
+			{
+				"excelHeader": "PartnerID",
+				"excelIndex": 0,
+				"excelColType": "Integer",
+				"excelValue": null,
+				"pojoAttribute": "partnerId"
+			},
+			{
+				"excelHeader": "partnerGuid",
+				"excelIndex": 1,
+				"excelColType": "String",
+				"excelValue": null,
+				"pojoAttribute": "partnerGuid"
+			},
+			{
+				"excelHeader": "accountid",
+				"excelIndex": 2,
+				"excelColType": "Integer",
+				"excelValue": null,
+				"pojoAttribute": "accountId"
+			},
+			{
+				"excelHeader": "accountGuid",
+				"excelIndex": 3,
+				"excelColType": "String",
+				"excelValue": null,
+				"pojoAttribute": "accountGuid"
+			},
+			{
+				"excelHeader": "username",
+				"excelIndex": 4,
+				"excelColType": "String",
+				"excelValue": null,
+				"pojoAttribute": "username"
+			},
+			{
+				"excelHeader": "domains",
+				"excelIndex": 5,
+				"excelColType": "String",
+				"excelValue": null,
+				"pojoAttribute": "domains"
+			},
+			{
+				"excelHeader": "itemname",
+				"excelIndex": 6,
+				"excelColType": "String",
+				"excelValue": null,
+				"pojoAttribute": "itemname"
+			},
+			{
+				"excelHeader": "plan",
+				"excelIndex": 7,
+				"excelColType": "String",
+				"excelValue": null,
+				"pojoAttribute": "plan"
+			},
+			{
+				"excelHeader": "itemType",
+				"excelIndex": 8,
+				"excelColType": "Integer",
+				"excelValue": null,
+				"pojoAttribute": "itemType"
+			},
+			{
+				"excelHeader": "PartNumber",
+				"excelIndex": 9,
+				"excelColType": "String",
+				"excelValue": null,
+				"pojoAttribute": "partNumber"
+			},
+			{
+				"excelHeader": "itemCount",
+				"excelIndex": 10,
+				"excelColType": "Integer",
+				"excelValue": null,
+				"pojoAttribute": "itemCount"
+			}
+		]
+	}
+]
